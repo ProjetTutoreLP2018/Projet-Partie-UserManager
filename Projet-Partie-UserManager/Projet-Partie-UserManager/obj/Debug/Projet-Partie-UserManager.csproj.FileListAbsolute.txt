@@ -1,0 +1,2 @@
+C:\Users\Dupeyrat\Desktop\ProjetTut\Projet-Partie-UserManager\Projet-Partie-UserManager\Projet-Partie-UserManager\obj\Debug\Projet-Partie-UserManager.csprojResolveAssemblyReference.cache
+C:\Users\Dupeyrat\Desktop\ProjetTut\Projet-Partie-UserManager\Projet-Partie-UserManager\Projet-Partie-UserManager\obj\Debug\Projet-Partie-UserManager.csproj.CoreCompileInputs.cache
